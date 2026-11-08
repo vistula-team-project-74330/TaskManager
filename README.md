@@ -32,8 +32,10 @@
 
 - Complete Tasks: Mark tasks as completed or incomplete.
 
+
+
 - Delete Tasks: Permanently remove tasks from the database
 
-
+Link to Task manager: https://vistula-team-project-74330.github.io/TaskManager/contribution.html
 
   
